@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/spell-and-speak/static/css/main.ccc62f60.css",
-    "main.js": "/spell-and-speak/static/js/main.3a4cab32.js",
+    "main.css": "/spell-and-speak/static/css/main.28b0797a.css",
+    "main.js": "/spell-and-speak/static/js/main.d07edcbe.js",
     "static/js/453.4880901c.chunk.js": "/spell-and-speak/static/js/453.4880901c.chunk.js",
     "index.html": "/spell-and-speak/index.html",
-    "main.ccc62f60.css.map": "/spell-and-speak/static/css/main.ccc62f60.css.map",
-    "main.3a4cab32.js.map": "/spell-and-speak/static/js/main.3a4cab32.js.map",
+    "main.28b0797a.css.map": "/spell-and-speak/static/css/main.28b0797a.css.map",
+    "main.d07edcbe.js.map": "/spell-and-speak/static/js/main.d07edcbe.js.map",
     "453.4880901c.chunk.js.map": "/spell-and-speak/static/js/453.4880901c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccc62f60.css",
-    "static/js/main.3a4cab32.js"
+    "static/css/main.28b0797a.css",
+    "static/js/main.d07edcbe.js"
   ]
 }
